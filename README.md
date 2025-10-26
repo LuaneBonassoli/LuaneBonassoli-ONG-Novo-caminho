@@ -1,1 +1,0 @@
-# LuaneBonassoli-ONG-Novo-caminho
