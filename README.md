@@ -6,7 +6,7 @@ Este repositório apresenta um site institucional desenvolvido como parte da **A
 
 O site é composto por três páginas principais:
 
-- **index-2.html** — Página inicial com a apresentação da ONG, sua missão e áreas de atuação.
+- **index.html** — Página inicial com a apresentação da ONG, sua missão e áreas de atuação.
 - **projetos.html** — Lista dos principais projetos sociais, com descrições, status e opções de participação.
 - **cadastro.html** — Formulário de cadastro para famílias, voluntários e doadores, incluindo validações básicas em JavaScript.
 
